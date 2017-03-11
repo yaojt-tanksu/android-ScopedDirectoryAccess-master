@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="open_directory">Open</string>
+    <string name="selected_directory">Selected directory:\ </string>
+    <string name="nothing_in_directory">Nothing in the directory</string>
+    <string name="primary_volume_description">内部存储空间</string>
+    <string-array name="directories">
+        <item>ALARMS</item>
+        <item>DCIM</item>
+        <item>DOCUMENTS</item>
+        <item>DOWNLOADS</item>
+        <item>MOVIES</item>
+        <item>MUSIC</item>
+        <item>NOTIFICATIONS</item>
+        <item>PICTURES</item>
+        <item>PODCASTS</item>
+        <item>RINGTONES</item>
+    </string-array>
+</resources>
